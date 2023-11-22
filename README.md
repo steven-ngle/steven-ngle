@@ -1,5 +1,9 @@
-### Hi there👋 
+### Hi, I'm still in the process of learning.👋🤠  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-ngle&layout=compact&theme=transparent)
+
+![500daysofsmrGIF](https://github.com/steven-ngle/steven-ngle/assets/117310378/6585b67b-b3e6-4198-9035-fbfad22c52b1)
+
+
 
 <!--
 **steven-ngle/steven-ngle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
