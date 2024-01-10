@@ -1,4 +1,4 @@
-### Hi, I'm still in the process of learning.👋
+### Hi.👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-ngle&layout=compact&theme=transparent)
 
 
